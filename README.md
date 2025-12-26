@@ -69,26 +69,3 @@ Optimize deep learning models for local deployment on high-speed automotive asse
 | Edge AI (Industry 4.0) | Accuracy at 50% Sparsity | 95.2% |
 | Edge AI (Industry 4.0) | Inference Time | ~60ms |
 | Edge AI (Industry 4.0) | Power Consumption | ~7W |
-
----
-
-## 🚀 Future Directions
-
-- Expand XAI techniques to additional medical imaging modalities
-- Explore federated learning for privacy-preserving model training
-- Implement real-time model monitoring and drift detection
-- Scale Edge AI solutions to multi-model ensemble deployments
-
----
-
-## 📝 License
-
-This project is available under the [MIT License](LICENSE).
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
----
-
-**Note**: All medical imaging work follows HIPAA compliance guidelines and uses publicly available datasets. Industrial deployment scenarios are based on standard Industry 4.0 requirements.
